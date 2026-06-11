@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "11124637382",
+    "firebase_url": "https://actividad1-bdec3-default-rtdb.firebaseio.com",
+    "project_id": "actividad1-bdec3",
+    "storage_bucket": "actividad1-bdec3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11124637382:android:66c6cf52c59b78f3a7e1c7",
+        "android_client_info": {
+          "package_name": "com.tuusuario.authjava"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJjsqm9SUbGJbvUlXpNbT2neFIumR3Lrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
